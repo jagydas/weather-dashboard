@@ -1,0 +1,18 @@
+/* h1 style */
+
+h1 {
+    text-align: center;
+    color: white;
+    float: center;
+    margin: 10px;
+    border: 1px solid lightgray;
+}
+
+.hide {
+    display: none;
+}
+
+.weather-icon {
+    height: 50px;
+    width: 50px;
+}
